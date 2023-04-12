@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedDLL", "DistributedDLL\DistributedDLL.csproj", "{A6996A91-33F0-4E89-B10F-B5B31F396F78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributedDLL", "DistributedDLL\DistributedDLL.csproj", "{A6996A91-33F0-4E89-B10F-B5B31F396F78}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "..\Project0_SlnName\Application\Application.csproj", "{81753259-237F-437F-B04E-B94D47FA7156}"
 EndProject
